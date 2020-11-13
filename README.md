@@ -12,3 +12,5 @@ Features to be added:
   3. Transitioning from a live chat app to a **chat** app (Bigger Update).
 
 The app will be deployed to the Play Store after some-time.
+
+-[Finished App] https://github.com/mohitms007/FlashChat/blob/master/images/flash_chat_flutter_demo.gif
