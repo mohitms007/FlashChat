@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "932750570370",
+    "firebase_url": "https://flash-chat-8471c.firebaseio.com",
+    "project_id": "flash-chat-8471c",
+    "storage_bucket": "flash-chat-8471c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932750570370:android:918dcb4dd1497ebc26959b",
+        "android_client_info": {
+          "package_name": "co.horizon.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932750570370-s3bk7aig9s9m4fqo7mh44io5v8dfk3c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTK0_zWWEyMNMvobTwTLhM_bE3W5zAr_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932750570370-s3bk7aig9s9m4fqo7mh44io5v8dfk3c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
